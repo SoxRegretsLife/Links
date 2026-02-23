@@ -1,3 +1,3 @@
 # Links
-websoumania.com
+[Osumania](https://websoumania.com)
 
